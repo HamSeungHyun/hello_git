@@ -1,3 +1,6 @@
 add1
 hello git!
-Edit by RB1.0 branch
+
+1. Edit by RB1.0 branch
+2. edited by master
+
